@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<students xmlns="urn:students">
+  <student>
+    <name>Peter Petrov</name>
+    <gender>Male</gender>
+    <birth-date>1985-06-30</birth-date>
+    <phone-number>0888-888888</phone-number>
+    <email>pesho@abv.bg</email>
+    <university>SoftUni</university>
+    <specialty>Software engineer</specialty>
+    <faculty-number>123456</faculty-number>
+    <exams>
+      <exam>
+        <name>C#</name>
+        <date-taken>2014-07-12</date-taken>
+        <grade>6.00</grade>
+      </exam>
+      <exam>
+        <name>Java Basics</name>
+        <date-taken>2014-09-28</date-taken>
+        <grade>5.90</grade>
+      </exam>
+      <exam>
+        <name>PHP</name>
+        <date-taken>2014-12-05</date-taken>
+        <grade>4.00</grade>
+      </exam>
+    </exams>
+  </student>
+  <student>
+    <name>Georgi Georgiev</name>
+    <gender>Male</gender>
+    <birth-date>1990-12-12</birth-date>
+    <phone-number>0888-111111</phone-number>
+    <email>gosho@abv.bg</email>
+    <university>SoftUni</university>
+    <specialty>Developer</specialty>
+    <faculty-number>654321</faculty-number>
+    <exams>
+      <exam>
+        <name>HTML and CSS</name>
+        <date-taken>2015-02-09</date-taken>
+        <grade>4.50</grade>
+      </exam>
+      <exam>
+        <name>OOP</name>
+        <date-taken>2015-03-17</date-taken>
+        <grade>5.45</grade>
+      </exam>
+      <exam>
+        <name>Databases</name>
+        <date-taken>2015-07-12</date-taken>
+        <grade>4.12</grade>
+      </exam>
+    </exams>
+  </student>
+  <student>
+    <name>Maria Ilieva</name>
+    <gender>Female</gender>
+    <birth-date>1978-12-19</birth-date>
+    <phone-number>0888-333333</phone-number>
+    <email>mimi@abv.bg</email>
+    <university>SoftUni</university>
+    <specialty>Graphic designer</specialty>
+    <faculty-number>555555</faculty-number>
+    <exams>
+      <exam>
+        <name>HTML and CSS</name>
+        <date-taken>2014-05-31</date-taken>
+        <grade>5.99</grade>
+      </exam>
+      <exam>
+        <name>Photoshop</name>
+        <date-taken>2014-11-11</date-taken>
+        <grade>4.78</grade>
+      </exam>
+      <exam>
+        <name>PHP</name>
+        <date-taken>2014-09-15</date-taken>
+        <grade>3.47</grade>
+      </exam>
+    </exams>
+  </student>
+</students>
