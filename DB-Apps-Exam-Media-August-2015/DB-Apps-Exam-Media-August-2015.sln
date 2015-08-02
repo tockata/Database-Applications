@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Diablo-EF-DatabaseFirst", "Diablo-EF-DatabaseFirst\01.Diablo-EF-DatabaseFirst.csproj", "{AC4E711A-425B-4871-9C76-FD38E101AFF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ExportCharactersAndPlayersAsJson", "ExportCharactersAndPlayersAsJson\02.ExportCharactersAndPlayersAsJson.csproj", "{B7F465FF-5C48-4FDA-A820-D6BCC7E4F17C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ExportFinishedGamesAsXml", "ExportFinishedGamesAsXml\03.ExportFinishedGamesAsXml.csproj", "{32D4854E-FB75-4128-A950-4A5B48BE01D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.ImportUsersAndTheirGamesFromXml", "ImportUsersAndTheirGamesFromXml\04.ImportUsersAndTheirGamesFromXml.csproj", "{A4FDD225-CF9B-439D-A35B-E00CB6FE0E8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Movies-EF-CodeFirst", "Movies-EF-CodeFirst\05.Movies-EF-CodeFirst.csproj", "{7C142472-9B01-452A-B0AD-447797257B1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.QueryTheDatabase", "QueryTheDatabase\06.QueryTheDatabase.csproj", "{BAEF4EDB-D1BF-4FCA-B399-CE79A3D205BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC4E711A-425B-4871-9C76-FD38E101AFF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC4E711A-425B-4871-9C76-FD38E101AFF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC4E711A-425B-4871-9C76-FD38E101AFF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC4E711A-425B-4871-9C76-FD38E101AFF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7F465FF-5C48-4FDA-A820-D6BCC7E4F17C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7F465FF-5C48-4FDA-A820-D6BCC7E4F17C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7F465FF-5C48-4FDA-A820-D6BCC7E4F17C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7F465FF-5C48-4FDA-A820-D6BCC7E4F17C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32D4854E-FB75-4128-A950-4A5B48BE01D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32D4854E-FB75-4128-A950-4A5B48BE01D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32D4854E-FB75-4128-A950-4A5B48BE01D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32D4854E-FB75-4128-A950-4A5B48BE01D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4FDD225-CF9B-439D-A35B-E00CB6FE0E8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4FDD225-CF9B-439D-A35B-E00CB6FE0E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4FDD225-CF9B-439D-A35B-E00CB6FE0E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4FDD225-CF9B-439D-A35B-E00CB6FE0E8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C142472-9B01-452A-B0AD-447797257B1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C142472-9B01-452A-B0AD-447797257B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C142472-9B01-452A-B0AD-447797257B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C142472-9B01-452A-B0AD-447797257B1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAEF4EDB-D1BF-4FCA-B399-CE79A3D205BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAEF4EDB-D1BF-4FCA-B399-CE79A3D205BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAEF4EDB-D1BF-4FCA-B399-CE79A3D205BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAEF4EDB-D1BF-4FCA-B399-CE79A3D205BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
